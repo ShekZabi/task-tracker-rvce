@@ -1,2 +1,4 @@
 
-React Application to maintain a timetable as an RVCE Computer Science Student
+Minimal front end application to monitor your daily needs
+Timetable RVCE CSE student specific 
+https://shekzabi.github.io/task-tracker-rvce/
